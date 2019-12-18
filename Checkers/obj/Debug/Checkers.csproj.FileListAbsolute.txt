@@ -1,0 +1,41 @@
+D:\sem6\RSI\3\Checkers\Checkers\bin\Debug\Checkers.exe.config
+D:\sem6\RSI\3\Checkers\Checkers\bin\Debug\Checkers.exe
+D:\sem6\RSI\3\Checkers\Checkers\bin\Debug\Checkers.pdb
+D:\sem6\RSI\3\Checkers\Checkers\obj\Debug\Checkers.Form1.resources
+D:\sem6\RSI\3\Checkers\Checkers\obj\Debug\Checkers.Properties.Resources.resources
+D:\sem6\RSI\3\Checkers\Checkers\obj\Debug\Checkers.csproj.GenerateResource.Cache
+D:\sem6\RSI\3\Checkers\Checkers\obj\Debug\Checkers.exe
+D:\sem6\RSI\3\Checkers\Checkers\obj\Debug\Checkers.pdb
+D:\sem6\RSI\3\Checkers\Checkers\obj\Debug\Checkers.csprojResolveAssemblyReference.cache
+D:\Downloads\Checkers (3)\Checkers\Checkers\bin\Debug\Checkers.exe.config
+D:\Downloads\Checkers (3)\Checkers\Checkers\bin\Debug\Checkers.exe
+D:\Downloads\Checkers (3)\Checkers\Checkers\bin\Debug\Checkers.pdb
+D:\Downloads\Checkers (3)\Checkers\Checkers\obj\Debug\Checkers.csprojResolveAssemblyReference.cache
+D:\Downloads\Checkers (3)\Checkers\Checkers\obj\Debug\Checkers.Form1.resources
+D:\Downloads\Checkers (3)\Checkers\Checkers\obj\Debug\Checkers.Properties.Resources.resources
+D:\Downloads\Checkers (3)\Checkers\Checkers\obj\Debug\Checkers.csproj.GenerateResource.Cache
+D:\Downloads\Checkers (3)\Checkers\Checkers\obj\Debug\Checkers.exe
+D:\Downloads\Checkers (3)\Checkers\Checkers\obj\Debug\Checkers.pdb
+D:\Downloads\Checkers (3)\Checkers\Checkers\bin\Debug\Resources\ico.ico
+D:\Downloads\Checkers (3)\Checkers\Checkers\bin\Debug\Resources\select_small68.png
+D:\Downloads\Checkers (3)\Checkers\Checkers\bin\Debug\Resources\white_small.png
+D:\Downloads\Checkers (3)\Checkers\Checkers\bin\Debug\Resources\board.jpg
+D:\Downloads\Checkers (3)\Checkers\Checkers\bin\Debug\Resources\black_small.png
+D:\Downloads\Checkers (3)\Checkers\Checkers\bin\Debug\Resources\white_small_crown.png
+D:\Downloads\Checkers (3)\Checkers\Checkers\bin\Debug\Resources\black_small_crown.png
+C:\Users\W\Downloads\Checkers_obyfinal\Checkers\Checkers\bin\Debug\Checkers.exe.config
+C:\Users\W\Downloads\Checkers_obyfinal\Checkers\Checkers\obj\Debug\Checkers.exe
+C:\Users\W\Downloads\Checkers_obyfinal\Checkers\Checkers\obj\Debug\Checkers.pdb
+C:\Users\W\Downloads\Checkers_obyfinal\Checkers\Checkers\bin\Debug\Resources\ico.ico
+C:\Users\W\Downloads\Checkers_obyfinal\Checkers\Checkers\bin\Debug\Resources\select_small68.png
+C:\Users\W\Downloads\Checkers_obyfinal\Checkers\Checkers\bin\Debug\Resources\white_small.png
+C:\Users\W\Downloads\Checkers_obyfinal\Checkers\Checkers\bin\Debug\Resources\board.jpg
+C:\Users\W\Downloads\Checkers_obyfinal\Checkers\Checkers\bin\Debug\Resources\black_small.png
+C:\Users\W\Downloads\Checkers_obyfinal\Checkers\Checkers\bin\Debug\Resources\white_small_crown.png
+C:\Users\W\Downloads\Checkers_obyfinal\Checkers\Checkers\bin\Debug\Resources\black_small_crown.png
+C:\Users\W\Downloads\Checkers_obyfinal\Checkers\Checkers\bin\Debug\Checkers.exe
+C:\Users\W\Downloads\Checkers_obyfinal\Checkers\Checkers\obj\Debug\Checkers.csprojResolveAssemblyReference.cache
+C:\Users\W\Downloads\Checkers_obyfinal\Checkers\Checkers\obj\Debug\Checkers.Form1.resources
+C:\Users\W\Downloads\Checkers_obyfinal\Checkers\Checkers\obj\Debug\Checkers.Properties.Resources.resources
+C:\Users\W\Downloads\Checkers_obyfinal\Checkers\Checkers\obj\Debug\Checkers.csproj.GenerateResource.Cache
+C:\Users\W\Downloads\Checkers_obyfinal\Checkers\Checkers\bin\Debug\Checkers.pdb
